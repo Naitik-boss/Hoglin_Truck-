@@ -1,6 +1,6 @@
 # 🐗 Hoglin Truck
 
-A custom Minecraft-inspired Hoglin Truck created in Blender.
+A Minecraft-inspired vehicle designed and modeled in Blender.
 
 ## Preview
 
@@ -9,14 +9,20 @@ A custom Minecraft-inspired Hoglin Truck created in Blender.
 ## Features
 
 - Custom Hoglin-themed design
-- Built entirely in Blender
+- Created in Blender
 - Game-ready low-poly style
-- Minecraft-inspired aesthetics
+- Original concept
+
+## Gallery
+
+![Side View](renders/side_view.png)
+
+![Rear View](renders/rear_view.png)
 
 ## Software Used
 
-- Blender
+- Blender 4.x
 
-## Creator
+## Author
 
 Naitik Navnit
