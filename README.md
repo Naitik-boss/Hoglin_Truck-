@@ -1,2 +1,2 @@
-# Hoglin_Truck-
+# Hoglin_Truck
 A custom Minecraft-inspired Hoglin Truck created in Blender.
