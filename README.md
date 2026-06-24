@@ -4,7 +4,7 @@ A custom Minecraft-inspired Hoglin Truck created in Blender.
 
 ## Preview
 
-![Front View](renders/front.png)
+![Hoglin Truck](renders/cinematic_render.png)
 
 ## Features
 
